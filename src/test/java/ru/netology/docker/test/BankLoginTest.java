@@ -9,7 +9,6 @@ import ru.netology.docker.page.LoginPage;
 
 import static com.codeborne.selenide.Selenide.open;
 import static ru.netology.docker.data.SQLHelper.cleanDataBase;
-import static ru.netology.docker.data.SQLHelper.cleanDataBase;
 
 public class BankLoginTest {
 
